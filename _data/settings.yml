@@ -9,7 +9,7 @@ description: this is meta description
 email: steve.fruits@email.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2023 [XAPHNE](https://xaphne.github.io/) | All Rights Reserved | Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,13 +36,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Subhankar Sarkar <br> Application Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/realXaphene/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/xaphene/" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/xaphene-24x7/" }
+  - { icon: "ti-twitter", link: "https://twitter.com/xaphene" }
 
 #-------------------------------
 # About (Section and Page)
