@@ -6,10 +6,10 @@ title: XAPHENE
 logo:
 author: XAPHNE
 description: this is meta description
-email: suvnkr.xaphene.gmail.com
-phone: +91 7002337668
-address: Bongaigaon, Assam, India
-copyright: Copyright &copy; 2023 [XAPHENE](https://xaphne.github.io/) All Rights Reserved Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: 
+phone: 
+address: 
+copyright: Copyright &copy; 2023 [XAPHENE](https://xaphne.github.io/) &#124; All Rights Reserved &#124; Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -108,7 +108,7 @@ experience:
       name: Summer Internship (EDA using Python),
       icon: "icon-2.png",
       date: "Jul 2022",
-      organization: "EICT Academy, IIT Guwahati",
+      organization: "[EICT Academy, IIT Guwahati](https://eict.iitg.ac.in/)",
     }
 
 #-------------------------------
@@ -119,17 +119,17 @@ education:
   - {
       name: Bachelor of Technology in Computer Science and Engineering,
       date: "2024",
-      organization: "Kaziranga University",
+      organization: "[Kaziranga University](https://www.kzu.ac.in/)",
     }
   - {
       name: Diploma in Computer Engineering,
       date: "2015",
-      organization: "Central Institute of Technology, Kokrajhar",
+      organization: "[Central Institute of Technology](https://cit.ac.in/)",
     }
   - {
       name: All India Secondary School Examination,
       date: "2010",
-      organization: "Little Flower School, Chapaguri",
+      organization: "[Little Flower School](https://www.littleflowerschool.info/Default.aspx)",
     }
 
 #-------------------------------
