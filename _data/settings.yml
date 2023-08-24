@@ -123,24 +123,19 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Bachelor of Technology in Computer Science and Engineering,
+      date: "2024",
+      organization: "Kaziranga University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Diploma in Computer Engineering,
+      date: "2015",
+      organization: "Central Institute of Technology",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: All India Secondary School Examination,
+      date: "2010",
+      organization: "Little Flower School",
     }
 
 #-------------------------------
