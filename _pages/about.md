@@ -6,7 +6,7 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Hello there! I'm [Your Name], in the final stretch of my B.Tech journey, majoring in Computer Science and Engineering at Kaziranga University. 🎓 My fascination with the realm of computer engineering dates back to 2015 when I completed my diploma in Computer Engineering from the prestigious Central Institute of Technology.
+Hello there! I'm Subhankar Sarkar, in the final stretch of my B.Tech journey, majoring in Computer Science and Engineering at Kaziranga University. 🎓 My fascination with the realm of computer engineering dates back to 2015 when I completed my diploma in Computer Engineering from the prestigious Central Institute of Technology.
 
 Last year, an amazing opportunity came my way – an internship at the EICT Academy, IIT Guwahati. During this intensive one-month program, I was captivated by the intricacies of Exploratory Data Analysis using Python. This experience not only refined my technical prowess but also ignited a passion for data-driven solutions.
 
