@@ -59,15 +59,15 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "In this initial phase, thorough research is conducted to gather information, identify goals, and understand requirements. Based on this research, a detailed plan is created outlining the tasks, resources, timeline, and objectives of the project. This step sets the foundation for the work to be undertaken."
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "In this phase, the conceptual plan from the previous step is transformed into tangible outputs. Design and development activities take place, which might involve creating prototypes, coding software, building products, or drafting content. This step focuses on turning ideas into actual deliverables."
 
-  - title: "Deliver"
+  - title: "Review and Refine"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "After the design and development phase, a review is conducted to assess the work's quality, accuracy, and alignment with the initial plan. Feedback is gathered from stakeholders, and any necessary refinements or improvements are made. This step ensures that the final output meets the desired standards and addresses any issues."
 
 # My Team Section
 #team:
