@@ -6,9 +6,9 @@ title: XAPHENE
 logo:
 author: XAPHNE
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+#email: steve.fruits@email.com
+#phone: +880 2544 658 256
+#address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2023 [XAPHENE](https://xaphne.github.io/) All Rights Reserved Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -70,28 +70,28 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+#team:
+#  - title: "Jack Schenziwe"
+#    image: "assets/images/team/member-1.png"
+#    designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+#  - title: "Julias Carlie"
+#    image: "assets/images/team/member-2.png"
+#    designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#  - title: "John Doe"
+#    image: "assets/images/team/member-3.png"
+#    designation: "Designer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: JavaFX, color: "#fdb157", value: "70%" }
+  - { name: EDA using Python, color: "#9473e6", value: "80%" }
+  - { name: DBMS with MySQL, color: "#bdecf6", value: "85%" }
+  - { name: Full Stack Web Development, color: "#ffbcaa", value: "90%" }
 
 #-------------------------------
 # Exprerience Section
@@ -119,17 +119,17 @@ education:
   - {
       name: Bachelor of Technology in Computer Science and Engineering,
       date: "2024",
-      organization: "[Kaziranga University](https://www.kzu.ac.in/)",
+      organization: "Kaziranga University",
     }
   - {
       name: Diploma in Computer Engineering,
       date: "2015",
-      organization: "[Central Institute of Technology](https://cit.ac.in/)",
+      organization: "Central Institute of Technology, Kokrajhar",
     }
   - {
       name: All India Secondary School Examination,
       date: "2010",
-      organization: "[Little Flower School](https://www.littleflowerschool.info/Default.aspx)",
+      organization: "Little Flower School, Chapaguri",
     }
 
 #-------------------------------
