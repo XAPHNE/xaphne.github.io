@@ -161,8 +161,8 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image: "assets/images/portfolio/attendance-371x584.jpg"
+    url: "https://xaphne.github.io/StudentManagementSystem/"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
