@@ -164,8 +164,8 @@ portfolio-home-items:
   - image: "assets/images/portfolio/attendance-371x584.png"
     url: "https://xaphne.github.io/StudentManagementSystem/"
 
-  #- image: "assets/images/portfolio/item-2.png"
-  #  url: "#"
+  - image: "assets/images/portfolio/attendanceSystem-371x280.png"
+    url: "https://xaphne.github.io/AttendanceSystem/"
 
   #- image: "assets/images/portfolio/item-3.png"
   #  url: "#"
@@ -189,10 +189,10 @@ portfolio-items:
       - type: "Application"
     #  - type: "illustration"
 
-  #- image: "assets/images/portfolio/item-2.png"
-  #  url: "#"
-  #  portfolio-type:
-  #    - type: "branding"
+  - image: "assets/images/portfolio/attendanceSystem-371x280.png"
+    url: "https://xaphne.github.io/AttendanceSystem/"
+    portfolio-type:
+      - type: "Application"
 
   #- image: "assets/images/portfolio/item-3.png"
   #  url: "#"
