@@ -1,0 +1,53 @@
+---
+---
+/* Common style for all code blocks */
+.highlight {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    overflow-x: auto;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  }
+  
+  /* Bash syntax highlighting */
+  .language-bash {
+    /* Add specific styles for Bash code blocks here */
+  }
+  
+  /* Bash comments */
+  .language-bash span.c {
+    color: #6c757d;
+  }
+  
+  /* Bash keywords */
+  .language-bash span.k {
+    color: #d9534f;
+    font-weight: bold;
+  }
+  
+  /* Bash string literals */
+  .language-bash span.s,
+  .language-bash span.s1,
+  .language-bash span.s2,
+  .language-bash span.s3 {
+    color: #5bc0de;
+  }
+  
+  /* Bash variables */
+  .language-bash span.v {
+    color: #f0ad4e;
+  }
+  
+  /* Bash operators */
+  .language-bash span.o {
+    color: #d9534f;
+  }
+  
+  /* Java syntax highlighting */
+  .language-java {
+    /* Add specific styles for Java code blocks here */
+  }
+  
+  /* Add more language-specific styles as needed */
+  

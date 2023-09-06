@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with XAMPP on Ubuntu - A Step-by-Step Guide for Beginners
-date: 2023-09-06 15:36:00 +0530
+date: 2023-09-06 12:46:00 +0530
 image: /assets/images/blog/XAMPP-Installation-on-ubuntu-371x270.png
 author: XAPHNE
 tags: XAMPP, MySQL, Ubuntu, Linux, Debian, Desktop Shortcut 
@@ -42,7 +42,7 @@ Now that XAMPP is installed, let's make it easier to access. We'll create a desk
 
 2. Copy and paste the following code into the `XAMPP.desktop` file:
 
-   ```ini
+   ```bash
    [Desktop Entry]
    Version=1.0
    Encoding=UTF-8
